@@ -1,0 +1,2 @@
+# Use Git LFS for Power BI files when large-file tracking is configured.
+*.pbix filter=lfs diff=lfs merge=lfs -text

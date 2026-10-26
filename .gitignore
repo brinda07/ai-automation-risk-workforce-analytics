@@ -1,0 +1,11 @@
+# Power BI Desktop temporary, backup, and lock files
+*.tmp
+*.bak
+*.pbit
+~$*.pbix
+*.pbix.lock
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
