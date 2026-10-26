@@ -16,12 +16,6 @@ A Power BI portfolio project exploring AI-automation exposure across 3,000 globa
 - The report finds no clear salary–risk relationship; Finance is cited as an example of high average pay alongside high risk.
 - The report recommends prioritizing upskilling by role rather than by salary band or location.
 
-## Files
-
-- [`report/AI-Automation-Risk-Workforce-Analytics.pdf`](report/AI-Automation-Risk-Workforce-Analytics.pdf) — project summary and reported findings.
-- [`powerbi/`](powerbi/) — add the Power BI Desktop `.pbix` project file here. See [`powerbi/README.md`](powerbi/README.md) for upload guidance.
-- [`data/README.md`](data/README.md) — data provenance and safe-sharing notes.
-
 ## Data and method
 
 Dataset. 3,000 global employee records. Primary data is a public Kaggle “AI Impact on Jobs” dataset (role, industry, country, salary, experience, AI-replacement-risk score). A secondary complementary table (training hours, digital-skill level, productivity, innovation) was synthetically generated and is used for method demonstration only — not treated as real-world evidence.
